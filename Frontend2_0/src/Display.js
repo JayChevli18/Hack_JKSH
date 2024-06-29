@@ -10,9 +10,9 @@ const Display = () => {
   var data = location.state;
   console.log(data.fullName);
 
-  <div>
+  return(<div>
     <h1>Hello, Hiral T. Kotwani!</h1>
-  </div>;
+  </div>);
 };
 
 export default Display;
