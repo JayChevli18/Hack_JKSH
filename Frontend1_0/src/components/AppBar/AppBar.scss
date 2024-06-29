@@ -1,0 +1,12 @@
+@import "../../settings";
+
+.navbar-app{
+    padding-left: 700px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: bolder;
+    background-color: $navbar-app-bg-color;
+    color: aliceblue;
+  }
